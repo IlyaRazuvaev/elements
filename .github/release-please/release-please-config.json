@@ -21,7 +21,7 @@
       "component": "@mux/mux-elements-codemod"
     },
     "packages/mux-player": {
-      "component": "@mux/mux-player"
+      "component": "@annoto/mux-player"
     },
     "packages/mux-player-react": {
       "component": "@mux/mux-player-react"
