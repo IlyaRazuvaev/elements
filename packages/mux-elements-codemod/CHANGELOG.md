@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/Annoto/mux-elements/compare/@mux/mux-elements-codemod-v1.1.9...@mux/mux-elements-codemod@2.0.0) (2024-12-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade media chrome to 4.1.0 ([#978](https://github.com/Annoto/mux-elements/issues/978))
+
+### Features
+
+* **mux-player-react:** Force minor version bump via conventional commits. ([201bfcd](https://github.com/Annoto/mux-elements/commit/201bfcd2a4137b2c409d1ce5fb3b32576a99ba31))
+
+
+### Bug Fixes
+
+* update typedefs, disable skipLibChecks in tsconfig ([#601](https://github.com/Annoto/mux-elements/issues/601)) ([1664aec](https://github.com/Annoto/mux-elements/commit/1664aec20e4cf4a59779848b298d4504eef24080))
+
+
+### Miscellaneous Chores
+
+* Upgrade media chrome to 4.1.0 ([#978](https://github.com/Annoto/mux-elements/issues/978)) ([ff78173](https://github.com/Annoto/mux-elements/commit/ff781732c86719de2ea7e54987c75178ac42bbd6))
+
 ## [1.1.9](https://github.com/muxinc/elements/compare/@mux/mux-elements-codemod@1.1.8...@mux/mux-elements-codemod@1.1.9) (2024-09-20)
 
 **Note:** Version bump only for package @mux/mux-elements-codemod
